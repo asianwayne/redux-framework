@@ -3,6 +3,8 @@
 
 #### Redux is powered by the Extendify team. Learn more at [extendify.com](https://extendify.com) ####
 
+#### QQ群：684052947   ####
+
 ## New to Version 4.3 ##
 * METABOXES!
 * REPEATER EXTENSION!
